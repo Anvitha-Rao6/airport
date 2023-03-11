@@ -1,5 +1,4 @@
 import React from 'react';
-import Footer from './Footer';
 import SearchForm from './SearchForm';
 const HomePage =()=>{
 
@@ -14,7 +13,7 @@ const HomePage =()=>{
                     <section id="home_page">
                         <div className="years-of-service">
                             <div className="container">
-                                For 20 years, we’ve helped travelers on their way. With free cancellations & a customer
+                                For 20 years, we've helped travelers on their way. With free cancellations & a customer
                                 service team in the US, we are committed to serving you.
                             </div>
                         </div>
@@ -61,7 +60,7 @@ const HomePage =()=>{
             </div>
 
 
-            <Footer />
+            
         </div>
     </div>
     )
